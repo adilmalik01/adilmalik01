@@ -1,7 +1,7 @@
 [![MasterHead height="200"](https://static.vecteezy.com/system/resources/previews/000/344/684/original/programming-code-on-laptop-banner-vector-flat-illustration.jpg)](https://adilmalik01.io)
 <h1 align="center">Hi 👋, I'm Adil Malik</h1>
 <h3 align="center">A passionate frontend developer from Pakistan Karachi</h3>
-<img align="right" width=""350 alt="Coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="adilmalik01" />
+<img align="right" width=""250 alt="Coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="adilmalik01" />
 
 
 
